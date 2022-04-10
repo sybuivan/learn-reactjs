@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-function <i class="fas fa-truck-loading    "></i>(props) {
+function (props) {
   return (
     <div><i class="fas fa-truck-loading    "></i></div>
   )
